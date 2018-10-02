@@ -85,10 +85,10 @@ $ make clean
 
 
 [docker]: https://www.docker.com/
-[install]: ../install.md
+[install]: ../install-minikube.md
 [git]: https://git-scm.com/
 [go]: https://golang.org/
-[helm]: https://github.com/kubernetes/helm
+[helm]: https://github.com/helm/helm
 [Homebrew]: https://brew.sh/
 [Kubernetes]: https://github.com/kubernetes/kubernetes
 [minikube]: https://github.com/kubernetes/minikube
